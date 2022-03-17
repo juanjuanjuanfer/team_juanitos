@@ -1,7 +1,7 @@
 ***
 **Team Juanitos** 
 ***   
-***
+
 _**Students**_  
 Priscila Tzuc  
 Juan Fernandez   
