@@ -4,7 +4,7 @@
 #include "./min.h"
 
 int main(){
-    int array[] = {2, 3564, 32, 345};
+    int array[] = {23, 3564, 32, 345};
     int len = sizeof(array)/ sizeof(int);
     int max = maximo(array, len);
     int min = mini(array, len);
