@@ -1,4 +1,4 @@
-int maximo(int arr[], int length)
+int max(int arr[], int length)
 {
     int max = 0;
   for (int c = 0; c < length; c++)
